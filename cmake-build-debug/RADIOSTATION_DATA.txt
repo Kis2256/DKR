@@ -1,0 +1,12 @@
+-----Log started-----
+Search started: User range [10.000000 - 150.000000]
+Found station: PeretsFM | Frequency: 105.4 - 105.6(MHz) | Radius: 10m
+Found station: Radio Bayraktar | Frequency: 98.4 - 98.6(MHz) | Radius: 40m
+Found station: PowerFM | Frequency: 103.9 - 104.1(MHz) | Radius: 150m
+Found station: Avtoradio | Frequency: 107.3 - 107.5(MHz) | Radius: 300m
+Found station: LuxFM | Frequency: 103 - 103.2(MHz) | Radius: 500m
+Found station: NRJ | Frequency: 98.3 - 98.5(MHz) | Radius: 800m
+Found station: KissFM | Frequency: 106.4 - 106.6(MHz) | Radius: 1000m
+Found station: HitFm | Frequency: 96.3 - 96.5(MHz) | Radius: 1800m
+Found station: Roks | Frequency: 103.5 - 103.7(MHz) | Radius: 2000m
+-----Log ended-----
